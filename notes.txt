@@ -1,0 +1,16 @@
+POM - page object Model - design pattern
+
+BDD, DDF, KDF
+
+1. every page has a class in your framework
+ex - login.java
+
+33 webelements
+
+
+
+Page Factory -- library within selenium
+
+@FindBY
+(byxpath='')
+Webelement loginButton
